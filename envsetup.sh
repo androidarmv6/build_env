@@ -1,0 +1,1 @@
+export OTA_PACKAGE_SIGNING_KEY=build_env/keys/platform
