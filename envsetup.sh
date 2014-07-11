@@ -1,3 +1,3 @@
 export OTA_PACKAGE_SIGNING_KEY=build_env/keys/platform
 export OTA_PACKAGE_SIGNING_DIR=build_env/keys
-echo $OTA_PACKAGE_SIGNING_KEY
+export PRODUCT_DEFAULT_DEV_CERTIFICATE=build_env/keys/releasekey
